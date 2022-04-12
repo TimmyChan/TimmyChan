@@ -23,13 +23,18 @@ Here are some ideas to get you started:
 ![Timmy Chan's GitHub stats](https://github-readme-stats.vercel.app/api?username=TimmyChan&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimmyChan&layout=compact)
 
-
+## Background
 _Mathematician interested in creating technology for virtual learning environments, foregrounding the principles of Universal Design for Learning. Deeply interested in learning and implementing multidisciplinary approaches to complex questions._
 
-## Currently...
+- M.A. in Mathematics from [San Francisco State University](http://math.sfsu.edu/)
+- Research interest focused on in mathematical learning in virtual environments, with emphasis on applying Universal Design for Learning principles. This blends works from Learning Sciences, Disability Studies, UX design, VR/AR interactive design with mathematical disciplinary mastery. 
+
+
+## Currently Projects
 - I'm working on [Curriculum Mapper](https://www.github.com/timmychan/curriculummapper), a visualization tool using NetworkX and BeautifulSoup to reverse engineer learning trajectories via prerequisite relationships in publicly accessible university bulletins. 
 - I'm applying my theoretical math training in linear algebra, optimization, and analysis to study implemenatations in machine learning.
 - I'm looking for help in my initial job search in tech, moving from academic research to industry. 
+
 
 ## Links:
   - [LinkedIn](https://www.linkedin.com/in/timmy-l-chan)
