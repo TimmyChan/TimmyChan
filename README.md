@@ -1,4 +1,5 @@
 ### Timmy L. Chan
+Pronouns: He/Him/They/Them
 
 <a href="https://github.com/TimmyChan"><img src="https://komarev.com/ghpvc/?username=TimmyChan" alt="TimmyChan" /></a>
 <a href="https://github.com/TimmyChan?tab=followers"><img src="https://img.shields.io/github/followers/TimmyChan"></a>
@@ -22,6 +23,7 @@ Here are some ideas to get you started:
 ![Timmy Chan's GitHub stats](https://github-readme-stats.vercel.app/api?username=TimmyChan&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimmyChan)
 
+
 _Mathematician interested in creating technology for virtual learning environments, foregrounding the principles of Universal Design for Learning. Deeply interested in learning and implementing multidisciplinary approaches to complex questions._
 
 ## Currently...
@@ -36,5 +38,3 @@ _Mathematician interested in creating technology for virtual learning environmen
   - [Twitter](https://www.twitter.com/mathtodata/)
 
 
-<-- https://github.com/antonkomarev/github-profile-views-counter -->
-![](https://komarev.com/ghpvc/?username=TimmyChan)
