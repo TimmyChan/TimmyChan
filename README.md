@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -->
 
 ![Timmy Chan's GitHub stats](https://github-readme-stats.vercel.app/api?username=TimmyChan&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimmyChan&compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimmyChan&layout=compact)
 
 
 _Mathematician interested in creating technology for virtual learning environments, foregrounding the principles of Universal Design for Learning. Deeply interested in learning and implementing multidisciplinary approaches to complex questions._
