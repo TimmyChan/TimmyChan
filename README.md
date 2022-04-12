@@ -1,9 +1,9 @@
 ### Timmy L. Chan
 Pronouns: He/Him/They/Them
 
-<a href="https://github.com/TimmyChan"><img src="https://komarev.com/ghpvc/?username=TimmyChan" alt="TimmyChan" /></a>
-<a href="https://github.com/TimmyChan?tab=followers"><img src="https://img.shields.io/github/followers/TimmyChan"></a>
-<a href="mailto:mathtodata@gmail.com"><img src="https://img.shields.io/badge/Email-mathtodata@gmail.com-blue" alt="Email" /></a>
+<a href="https://github.com/TimmyChan"><img src="https://komarev.com/ghpvc/?username=TimmyChan&color=brightgreen" alt="TimmyChan" /></a>
+<a href="https://github.com/TimmyChan?tab=followers"><img src="https://img.shields.io/github/followers/TimmyChan&color=brightgreen"></a>
+<a href="mailto:mathtodata@gmail.com"><img src="https://img.shields.io/badge/Email-mathtodata@gmail.com-brightgreen" alt="Email" /></a>
 
 <!--
 **TimmyChan/TimmyChan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
