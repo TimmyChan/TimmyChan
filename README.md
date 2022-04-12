@@ -2,13 +2,14 @@
 Pronouns: He/Him/They/Them
 
 <a href="https://github.com/TimmyChan"><img src="https://komarev.com/ghpvc/?username=TimmyChan&color=brightgreen" alt="TimmyChan" /></a>
-<a href="https://github.com/TimmyChan?tab=followers"><img src="https://img.shields.io/github/followers/TimmyChan-brightgreen"></a>
+<a href="https://github.com/TimmyChan?tab=followers"><img src="https://img.shields.io/github/followers/TimmyChan"></a>
 <a href="mailto:mathtodata@gmail.com"><img src="https://img.shields.io/badge/Email-mathtodata@gmail.com-brightgreen" alt="Email" /></a>
 
 <div>
-![Timmy Chan's GitHub stats](https://github-readme-stats.vercel.app/api?username=TimmyChan&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimmyChan&layout=compact)
-</div
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=TimmyChan&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TimmyChan&layout=compact" />
+</div>
+
 ## Background
 _Mathematician interested in creating technology for virtual learning environments, foregrounding the principles of Universal Design for Learning. Deeply interested in learning and implementing multidisciplinary approaches to complex questions._
 
