@@ -1,6 +1,6 @@
 ### Timmy L. Chan, M.A.
 <img src="https://projecteuler.net/profile/timmychan.png" />
-[Mathematical Solutions to Project Euler Problems]{https://timmychan.github.io/euler-problemset-sage/#/}
+[Mathematical Solutions to Project Euler Problems](https://timmychan.github.io/euler-problemset-sage/#/)
 
 <a href="https://github.com/TimmyChan"><img src="https://komarev.com/ghpvc/?username=TimmyChan&color=brightgreen" alt="TimmyChan" /></a>
 <a href="https://github.com/TimmyChan?tab=followers"><img src="https://img.shields.io/github/followers/TimmyChan"></a>
