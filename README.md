@@ -1,4 +1,4 @@
-### Timmy L. Chan (He/Him/They/Them)
+### Timmy L. Chan, M.A.
 <img src="https://projecteuler.net/profile/timmychan.png" />
 
 
