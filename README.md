@@ -1,13 +1,7 @@
-<div>
-  <div>
-    ### Timmy L. Chan
+### Timmy L. Chan (He/Him/They/Them)
+<img src="https://projecteuler.net/profile/timmychan.png" />
 
-    Pronouns: He/Him/They/Them
-  </div>
-  <div> 
-      <img src="https://projecteuler.net/profile/timmychan.png" />
-  </div>
-</div>
+
 <a href="https://github.com/TimmyChan"><img src="https://komarev.com/ghpvc/?username=TimmyChan&color=brightgreen" alt="TimmyChan" /></a>
 <a href="https://github.com/TimmyChan?tab=followers"><img src="https://img.shields.io/github/followers/TimmyChan"></a>
 <a href="mailto:mathtodata@gmail.com"><img src="https://img.shields.io/badge/Email-mathtodata@gmail.com-brightgreen" alt="Email" /></a>
