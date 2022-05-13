@@ -24,10 +24,14 @@ _Mathematician interested in creating technology for virtual learning environmen
 
 
 ## Links:
-  - [LinkedIn](https://www.linkedin.com/in/timmy-l-chan)
-  - [MathToData](https://www.mathtodata.com/)
-  - [Medium](https://mathtodata.medium.com/)
-  - [Facebook](https://www.facebook.com/mathtodata/)
-  - [Twitter](https://www.twitter.com/mathtodata/)
+- [LinkedIn](https://www.linkedin.com/in/timmy-l-chan)
+- [MathToData](https://www.mathtodata.com/)
+- [Medium](https://mathtodata.medium.com/)
+- [Facebook](https://www.facebook.com/mathtodata/)
+- [Twitter](https://www.twitter.com/mathtodata/)
 
 
+## Works Cited:
+- Baker, Bowen, et al. “Emergent Tool Use from Multi-Agent Autocurricula.” ArXiv:1909.07528 [Cs, Stat], 10 Feb. 2020, arxiv.org/abs/1909.07528.
+- Leibo, J. Z., Hughes, E., Lanctot, M., & Graepel, T. (2019). Autocurricula and the Emergence of Innovation from Social Interaction: A Manifesto for Multi-Agent Intelligence Research. ArXiv:1903.00742 [Cs, Q-Bio]. https://lnkd.in/gMKSMyiG
+- Russell, S. J., & Norvig, P. (2022). Artificial Intelligence: A modern approach. Pearson.
