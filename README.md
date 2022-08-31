@@ -27,8 +27,6 @@ _Mathematician interested in creating technology for virtual learning environmen
 - [LinkedIn](https://www.linkedin.com/in/timmy-l-chan)
 - [MathToData](https://www.mathtodata.com/)
 - [Medium](https://mathtodata.medium.com/)
-- [Facebook](https://www.facebook.com/mathtodata/)
-- [Twitter](https://www.twitter.com/mathtodata/)
 
 
 ## Works Cited:
