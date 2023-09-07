@@ -17,8 +17,8 @@ _Mathematician/Software Engineer deeply interested in learning and implementing 
 - Published thesis: [Computational verification of the cone conjecture](https://scholarworks.calstate.edu/concern/theses/vm40xt32d)
 - Research interest focused on in mathematical learning in virtual environments, with emphasis on applying Universal Design for Learning principles. This blends works from Learning Sciences, Disability Studies, UX design, VR/AR interactive design with mathematical disciplinary mastery. 
 
-## Recent Projects
-- Working on a fullstack adoptation of a local python app, using ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) backend and ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) frontend.
+## Recent Projects / Employment
+- Building code at Pratt & Whitney (through Quest Global) on a fullstack adoptation of a local python app, using ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) backend and ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) frontend.
 - I'm currently keeping my math skillset sharp through practice by solving problems on Project Euler. 
 - I'm working on [Curriculum Mapper](https://www.github.com/timmychan/curriculummapper), a visualization tool using NetworkX and BeautifulSoup to reverse engineer learning trajectories via prerequisite relationships in publicly accessible university bulletins. 
 
