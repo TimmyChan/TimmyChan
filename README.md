@@ -11,9 +11,10 @@
 </div>
 
 ## Background
-_Mathematician interested in creating technology for virtual learning environments, foregrounding the principles of Universal Design for Learning. Deeply interested in learning and implementing multidisciplinary approaches to complex questions._
+_Mathematician/Software Engineer deeply interested in learning and implementing multidisciplinary approaches to complex questions._
 
 - M.A. in Mathematics from [San Francisco State University](http://math.sfsu.edu/)
+- Published [thesis](https://scholarworks.calstate.edu/concern/theses/vm40xt32d)
 - Research interest focused on in mathematical learning in virtual environments, with emphasis on applying Universal Design for Learning principles. This blends works from Learning Sciences, Disability Studies, UX design, VR/AR interactive design with mathematical disciplinary mastery. 
 
 ## Currently Projects
